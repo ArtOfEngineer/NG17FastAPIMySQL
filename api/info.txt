@@ -1,0 +1,20 @@
+pip install fastapi
+pip install uvicorn
+
+pip install python-multipart
+
+pip install mysql-connector-python
+
+
+python -m uvicorn main:app --reload
+
+
+http://127.0.0.1:8000/
+
+
+
+npm install -g @angular/cli
+
+ng version
+
+ng new todo
